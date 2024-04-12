@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ankit-yad
-- 👀 I’m interested in full stack development
+- 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning backend development
 - 📫 How to reach me https://www.linkedin.com/in/ankit-yadav-b03811282/
 - 😄 Pronouns: ...
